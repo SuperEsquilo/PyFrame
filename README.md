@@ -1,4 +1,4 @@
-# Sistema em python com a biblioteca - CustomTkInter
+# Gerenciamento de dados com tabela em python -- CustomTkInter e Tkinter 
 Esse sistema em Python é uma aplicação desktop completa para gerenciamento de dados em formato de tabela, desenvolvida com foco em usabilidade, organização visual e funcionalidades práticas, utilizando CustomTkinter, Tkinter, ttk e integração com Pandas para manipulação de arquivos. A aplicação inicia com uma interface moderna em modo escuro, título personalizado e layout responsivo, estruturado em frames bem definidos que organizam visualmente os botões de ação, o título principal e a área da tabela.
 
 O núcleo do sistema é uma tabela interativa baseada em Treeview, configurada com rolagem vertical e horizontal, estilização personalizada e colunas bem definidas, permitindo visualizar registros de forma clara e organizada. O sistema mantém os dados tanto visualmente na tabela quanto internamente em uma estrutura de dados em memória, garantindo sincronização entre a interface e os dados manipulados. Desde a inicialização, alguns registros de exemplo são carregados automaticamente para demonstrar o funcionamento do sistema.
